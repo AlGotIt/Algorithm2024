@@ -2,8 +2,8 @@
 
 ### 양식
 
-- 파일명: 문제출처*번호(혹은 이름)*본인 이름.확장자
-  - ex) BOJ*1234_chulsu.py / Programmers*삼각형\_younghui.cpp
+- 파일명: 문제출처\_번호(혹은 이름)\_본인 이름.확장자
+  - ex) BOJ_1234_chulsu.py / Programmers\_삼각형\_younghui.cpp
 - Pull Request: 날짜 이름
   - ex) 240101 김철수
 
